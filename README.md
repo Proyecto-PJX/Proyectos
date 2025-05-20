@@ -17,16 +17,10 @@ Incluye nombres y créditos de los integrantes que colaboraron en la realizació
 
 ## 🧠 Tecnologías utilizadas
 
-- Python 3.x
+- Python 
 - Tkinter (interfaz gráfica)
-- NetworkX (visualización de rutas, si se utiliza)
+- NetworkX 
 - Git y GitHub para control de versiones
-
-## 🧱 ¿Qué se espera agregar próximamente?
-
-- Más archivos con funcionalidades distintas.
-- Algoritmos relacionados con grafos, rutas y planificación.
-- Posible documentación técnica.
 
 ## 👨‍🏫 Créditos
 
@@ -36,4 +30,3 @@ Desarrollado por el equipo de estudiantes de **XUMIDE Industries**.
 
 ---
 
-¿Quieres que este README incluya emojis, una tabla de colaboradores o un link directo al programa si se publica en GitHub Pages? Puedo ayudarte a personalizarlo aún más.
